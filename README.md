@@ -1,3 +1,4 @@
+<pre>
 {
     "editor.fontFamily": "Ubuntu Mono",
     "editor.fontSize": 16,
@@ -9,3 +10,4 @@
     "editor.folding": false,
     "window.restoreFullscreen": true
 }
+</pre>
