@@ -1,3 +1,4 @@
+###settings.json
 <pre>
 {
     "editor.fontFamily": "Ubuntu Mono",
@@ -11,3 +12,7 @@
     "window.restoreFullscreen": true
 }
 </pre>
+
+###cool packages:
+<a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview">Markdown preview</a>
+<a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons">File icons</a>
