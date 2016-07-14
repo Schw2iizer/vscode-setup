@@ -14,5 +14,5 @@
 </pre>
 
 ###cool packages:
-<a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview">Markdown preview</a>
+<a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview">Markdown preview</a><br>
 <a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons">File icons</a>
