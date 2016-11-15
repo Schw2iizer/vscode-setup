@@ -18,7 +18,9 @@
 </pre>
 
 ###cool packages:
-Path Intellisense
-Color Highlight
-ESLint
-Auto Close Tag
+Path Intellisense <br/>
+Color Highlight <br/>
+ESLint <br/>
+Auto Close Tag <br/>
+Sublime Text Keymap <br/>
+Simple icon theme <br/>
