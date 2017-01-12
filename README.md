@@ -19,8 +19,7 @@
 
 ###cool packages:
 Path Intellisense <br/>
-Color Highlight <br/>
-ESLint <br/>
+HTML CSS Class Completion <br/>
 Auto Close Tag <br/>
-Sublime Text Keymap <br/>
+Auto Rename Tag <br/>
 Simple icon theme <br/>
