@@ -1,0 +1,9 @@
+{
+  "editor.wrappingColumn": -1,
+  "editor.acceptSuggestionOnEnter": false,
+  "window.restoreFullscreen": true,
+  "editor.fontSize": 13,
+  "editor.detectIndentation": false,
+  "editor.tabSize": 2,
+  "editor.cursorBlinking": "phase"
+}
