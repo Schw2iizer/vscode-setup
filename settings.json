@@ -1,5 +1,7 @@
 {
-  "editor.wrappingColumn": -1,
+  "editor.wordWrap": "off",
+  "editor.minimap.enabled": true,
+  "editor.minimap.renderCharacters": false,
   "editor.acceptSuggestionOnEnter": false,
   "window.restoreFullscreen": true,
   "editor.fontSize": 13,
