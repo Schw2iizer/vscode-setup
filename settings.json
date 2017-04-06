@@ -4,8 +4,11 @@
   "editor.minimap.renderCharacters": false,
   "editor.acceptSuggestionOnEnter": false,
   "window.restoreFullscreen": true,
-  "editor.fontSize": 13,
+  "editor.fontSize": 16,
   "editor.detectIndentation": false,
   "editor.tabSize": 2,
+  "editor.fontFamily": "Ubuntu Mono",// Need to install from http://font.ubuntu.com/
+  "workbench.colorTheme": "Monokai",
+  "workbench.iconTheme": "simple-icons",
   "editor.cursorBlinking": "phase"
 }
