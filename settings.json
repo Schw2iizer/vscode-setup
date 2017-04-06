@@ -7,7 +7,7 @@
   "editor.fontSize": 16,
   "editor.detectIndentation": false,
   "editor.tabSize": 2,
-  "editor.fontFamily": "Ubuntu Mono",// Need to install from http://font.ubuntu.com/
+  "editor.fontFamily": "Ubuntu Mono", // Need to install from http://font.ubuntu.com/
   "workbench.colorTheme": "Monokai",
   "workbench.iconTheme": "simple-icons",
   "editor.cursorBlinking": "phase"
